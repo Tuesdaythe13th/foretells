@@ -1,2 +1,2 @@
 # foretells
-A multi-agent quantum forecaster .
+An advanced multi-agent, hybrid forecasting architecture that prioritizes governance, memory, and epistemic diversity over a simple single-model prediction. FORETELLS introduces Live Cognitive Organization (LCO): a governed, multi-agent system fusing live world perception, agentic specialization, interpretable critique, and long-horizon memory with learning. This architecture is realized through Pathway-style data connectors, hybrid semantic grounding, expert cadres (including a quantum-inspired anomaly detector), Baby Dragon Hatchling (BDH) interpretability circuits, and Mem0 persistent graph memory. Governance is fully integrated into inference, with auditable, calibrated outputs bound to policy triggers. 
